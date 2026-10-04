@@ -1,5 +1,0 @@
-aiogram>=3.0
-yt-dlp
-mutagen
-requests
-imageio-ffmpeg
